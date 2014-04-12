@@ -1,4 +1,4 @@
-uptimerobot
+Uptime Robot jquery plugin
 ===========
 
 jquery plugin for showing your uptime robot monitors
