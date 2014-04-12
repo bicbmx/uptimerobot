@@ -13,7 +13,7 @@ Configuration
 
 Initialize by:
 
-
+```
 $("body").uptimeRobot({monitorConfs: [
     {
      	apiKey: "XXX",
@@ -23,6 +23,7 @@ $("body").uptimeRobot({monitorConfs: [
     containerId: "monitors",
     monitorTemplateId: "monitor_template"
 });
+```
 
 Where 'monitors' is the container element the monitors will be appended to, and 'monitor_template' is the underscore template used to draw each monitor.
 
